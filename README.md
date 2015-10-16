@@ -1,2 +1,2 @@
 # HttpClient
-A Http client with libcurl
+A cross platform Http client with libcurl
